@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """WTForms extensions for Tornado."""
-version_tuple = (0, 0, 3, '+')
+version_tuple = (0, 0, 3)
 
 
 def get_version_string():
